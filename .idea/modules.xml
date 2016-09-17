@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/my-application.iml" filepath="$PROJECT_DIR$/my-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-jar/my-jar.iml" filepath="$PROJECT_DIR$/my-jar/my-jar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webApp/webApp.iml" filepath="$PROJECT_DIR$/webApp/webApp.iml" />
+    </modules>
+  </component>
+</project>
